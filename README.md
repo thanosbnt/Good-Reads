@@ -28,3 +28,37 @@ I read that this is a very nice introduction that goes easy on the reader when i
 Read it and tell us what photons are :)
 
 [Kindle version](https://www.amazon.com/Facts-Mysteries-Elementary-Particle-Physics-ebook/dp/B004S06TTE/ref=sr_1_3_twi_kin_2?ie=UTF8&qid=1543514113&sr=8-3&keywords=Facts+and+Mysteries+in+Elementary+particle+physics)
+
+## Computer Science
+
+**Introduction to Algorithms**
+
+One stop for all algorthmic concerns.
+
+[Kindle version](https://www.amazon.co.uk/Introduction-Algorithms-Press-Thomas-Cormen-ebook/dp/B007CNRCAO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1544178626&sr=8-1)
+
+**The Algorithm Design Manual**
+
+Now that you know most of the algorithms and understand how they work, lets take it to the next level, lets design our own. This book will tell you things to consider which sometimes are so counter intuitive that make you not read the book, until one day in shower you have your 'aha' moment
+
+[Kindle version](https://www.amazon.co.uk/Algorithm-Design-Manual-Steven-Skiena-ebook/dp/B00B8139Z8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1544178690&sr=8-1)
+
+**Design Pattern**
+
+If you want to read your code and understand it even after 10 years, this book is for you.
+
+[Kindle version](https://www.amazon.co.uk/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1544178910&sr=8-1)
+
+**Computer and Intractability**
+
+Well all problems are not solvable but we can find good enough solution for them. This book can tell you all about those problems which are unsolvable and how to find which problems are unsolvable just by looking at them.
+
+[Paper back](https://www.amazon.co.uk/dp/0716710455/?coliid=ICZSHKQRLBD19&colid=2V0KMNNK9PIA4&psc=0&ref_=lv_ov_lig_dp_it)
+
+## Problem Solving
+
+**How to Solve it**
+
+A huge checklist to consider when solving a problem.
+
+[Kindle version](https://www.amazon.co.uk/How-Solve-Aspect-Mathematical-Method-ebook/dp/B0073X0IOA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1544179245&sr=8-2)
