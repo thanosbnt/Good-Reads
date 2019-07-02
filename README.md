@@ -62,3 +62,12 @@ Well all problems are not solvable but we can find good enough solution for them
 A huge checklist to consider when solving a problem.
 
 [Kindle version](https://www.amazon.co.uk/How-Solve-Aspect-Mathematical-Method-ebook/dp/B0073X0IOA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1544179245&sr=8-2)
+
+## General
+
+**The Organized Mind**
+
+I had MRI after listening this but my neurons still seems to be jumbled up. However, i enjoyed listening this.
+
+[Kindle Version](https://www.amazon.co.uk/dp/B00M8PUC8K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+[Audible Version](https://www.audible.co.uk/pd/The-Organized-Mind-Audiobook/B00WIPXGEM?source_code=M2M14DFT1BkSH082015011R&ds_rl=1235779)
