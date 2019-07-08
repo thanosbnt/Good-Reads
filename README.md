@@ -71,3 +71,13 @@ I had MRI after listening this but my neurons still seems to be jumbled up. Howe
 
 [Kindle Version](https://www.amazon.co.uk/dp/B00M8PUC8K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 [Audible Version](https://www.audible.co.uk/pd/The-Organized-Mind-Audiobook/B00WIPXGEM?source_code=M2M14DFT1BkSH082015011R&ds_rl=1235779)
+
+## Space
+
+**Rocket Men: The Daring Odyssey of Apollo 8**
+
+If you want to know in detail how we made our first journey to the moon and landed safely back on earth. The part to wonder/admire is the accuracy of their calculations by their computers (which used to be humans)
+
+[Kindle Version](https://www.amazon.co.uk/Rocket-Men-odyssey-astronauts-journey-ebook/dp/B07CMGWB3F/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1562163066&sr=8-1)
+[Audible Version](https://www.amazon.co.uk/Rocket-Men-Odyssey-Astronauts-Journey/dp/B075GXVXGL/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1562163066&sr=8-1)
+[HardCover](https://www.amazon.co.uk/Rocket-Men-Odyssey-Astronauts-Journey/dp/0812988701/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1562163066&sr=8-1)
